@@ -1,0 +1,2 @@
+# QQBot-SCPSL
+一个基于SCP SL的QQBOT
